@@ -1,4 +1,4 @@
-# The Evening Edit
+# An Evening Dip
 
 An illustrated home bar collection with twenty cocktail recipes, randomized recommendations, ingredient search, mood and spirit filters, saved favorites, and serving and measurement controls.
 
